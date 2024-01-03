@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: vasir;
+    src: url(Vazir.woff2) format(woff2);
+}
+body{
+    font-family: vasir;
+    background-color: azure;
+}
